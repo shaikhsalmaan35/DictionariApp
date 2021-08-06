@@ -1,0 +1,21 @@
+.dictionary{
+  margin: 10px;
+  padding: 10px;
+  background-color:rgb(223, 130, 130);
+  color: white;
+}
+.leftContent{
+  margin: 10px;
+  padding: 10px;
+  background-color:rgb(171, 240, 125);
+  color: white;
+}
+.RightContent{
+  margin: 10px;
+  padding: 10px;
+  background-color:rgb(71, 209, 106);
+  color: white;
+}
+.buttonDown{
+  float: right;
+}
